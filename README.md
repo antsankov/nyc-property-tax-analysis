@@ -2,6 +2,7 @@
 
 ### NYC City Data
 * From https://data.cityofnewyork.us/City-Government/Property-Valuation-and-Assessment-Data/yjxr-fw8i/data
+* Also see https://data.cityofnewyork.us/City-Government/Property-Valuation-and-Assessment-Data/yjxr-fw8i/about_data
 * Filters: 
 	- BORO is 3, 
 	- TAXCLASS does not contain 3, 

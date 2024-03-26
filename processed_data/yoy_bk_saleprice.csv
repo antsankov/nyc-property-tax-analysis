@@ -1,0 +1,56 @@
+areaName,Borough,areaType,2011 YoY Increase (%),2012 YoY Increase (%),2013 YoY Increase (%),2014 YoY Increase (%),2015 YoY Increase (%),2016 YoY Increase (%),2017 YoY Increase (%),2018 YoY Increase (%),2019 YoY Increase (%)
+Bath Beach,Brooklyn,neighborhood,12.17,11.92,-7.9,14.86,12.15,11.97,4.39,-4.61,1.18
+Bay Ridge,Brooklyn,neighborhood,-7.19,11.47,-14.4,13.37,-1.95,18.21,6.95,29.42,-14.2
+Bedford-Stuyvesant,Brooklyn,neighborhood,4.17,12.57,13.79,27.95,27.76,12.11,4.1,1.3,-3.42
+Bensonhurst,Brooklyn,neighborhood,7.73,7.89,3.18,14.8,5.05,9.94,9.4,-9.75,9.89
+Bergen Beach,Brooklyn,neighborhood,-10.49,-100.0,N/A,6.53,13.21,-3.32,-3.36,7.65,10.26
+Boerum Hill,Brooklyn,neighborhood,23.54,66.57,-33.62,8.17,16.59,-5.74,50.23,-4.26,-1.9
+Borough Park,Brooklyn,neighborhood,-1.59,21.59,3.42,4.72,10.33,18.97,0.0,4.59,11.69
+Brighton Beach,Brooklyn,neighborhood,-6.75,-5.65,12.47,3.82,14.14,-10.98,16.58,-7.57,8.96
+Brooklyn,Brooklyn,borough,2.31,4.3,3.86,9.82,14.87,7.75,9.61,2.05,0.91
+Brooklyn Heights,Brooklyn,neighborhood,0.57,4.92,1.53,10.78,17.34,22.44,6.44,-13.37,-0.54
+Brownsville,Brooklyn,neighborhood,-11.38,10.34,-7.43,26.62,0.57,15.27,5.0,10.39,8.38
+Bushwick,Brooklyn,neighborhood,-11.2,17.91,12.27,25.68,39.77,4.4,8.88,-3.28,-7.75
+Canarsie,Brooklyn,neighborhood,-5.74,-0.13,-2.47,11.0,5.01,5.59,15.96,4.92,4.7
+Carroll Gardens,Brooklyn,neighborhood,-2.64,23.98,15.57,28.52,6.39,11.11,-12.5,7.28,0.43
+Clinton Hill,Brooklyn,neighborhood,19.12,-11.29,18.56,15.53,17.58,10.21,1.04,24.37,-4.87
+Cobble Hill,Brooklyn,neighborhood,12.96,-15.96,-31.27,114.29,3.4,6.7,0.51,17.04,33.59
+Columbia St Waterfront District,Brooklyn,neighborhood,N/A,-100.0,N/A,N/A,-45.56,-100.0,N/A,N/A,N/A
+Coney Island,Brooklyn,neighborhood,-6.52,3.29,9.19,-10.28,16.79,15.45,8.11,1.74,-1.05
+Crown Heights,Brooklyn,neighborhood,-7.58,8.99,0.2,16.74,34.45,19.24,6.54,4.14,-9.36
+DUMBO,Brooklyn,neighborhood,-100.0,N/A,13.37,52.02,5.44,30.71,-11.42,9.54,6.32
+Ditmas Park,Brooklyn,neighborhood,17.13,-17.94,-10.59,38.72,18.64,-11.15,35.64,-27.44,68.17
+Downtown Brooklyn,Brooklyn,neighborhood,6.16,17.69,1.17,5.2,32.54,0.28,-9.68,11.63,2.69
+Dyker Heights,Brooklyn,neighborhood,-3.37,4.36,10.15,6.05,16.53,4.65,5.22,6.86,-5.1
+East Brooklyn,Brooklyn,submarket,1.36,8.85,7.93,20.57,26.86,7.17,7.52,5.03,-2.86
+East Flatbush,Brooklyn,neighborhood,-8.6,-0.02,9.81,4.82,16.13,3.35,7.2,9.88,9.32
+East New York,Brooklyn,neighborhood,0.1,-2.12,13.23,7.89,19.86,7.06,13.89,10.64,2.39
+Flatbush,Brooklyn,neighborhood,-12.69,16.43,-0.6,27.43,30.98,0.63,3.41,12.15,-3.0
+Flatlands,Brooklyn,neighborhood,-10.64,-4.61,13.15,9.14,7.95,-3.09,10.13,13.02,-0.77
+Fort Greene,Brooklyn,neighborhood,-9.02,14.11,37.43,12.54,18.54,-30.92,45.9,17.27,-9.18
+Gerritsen Beach,Brooklyn,neighborhood,N/A,N/A,N/A,N/A,N/A,N/A,N/A,54.23,-100.0
+Gowanus,Brooklyn,neighborhood,11.15,8.35,-100.0,N/A,N/A,N/A,N/A,N/A,N/A
+Gravesend,Brooklyn,neighborhood,7.82,2.5,4.74,8.56,20.63,-0.17,6.65,-0.42,0.63
+Greenpoint,Brooklyn,neighborhood,1.48,7.49,28.35,19.23,30.02,23.77,-19.5,9.98,13.87
+Greenwood,Brooklyn,neighborhood,-100.0,N/A,46.55,-43.48,116.77,1.99,17.29,5.94,-8.41
+Kensington,Brooklyn,neighborhood,-1.75,10.88,-17.43,26.93,26.98,13.72,9.97,11.74,4.4
+Manhattan Beach,Brooklyn,neighborhood,N/A,N/A,N/A,N/A,-100.0,N/A,N/A,N/A,N/A
+Marine Park,Brooklyn,neighborhood,-3.35,3.4,-0.4,7.79,5.25,13.43,4.75,5.5,0.68
+Midwood,Brooklyn,neighborhood,5.14,-0.81,3.38,10.69,4.83,24.19,7.99,-1.25,12.27
+Mill Basin,Brooklyn,neighborhood,-100.0,N/A,N/A,N/A,-18.52,43.37,0.4,-2.63,-100.0
+North Brooklyn,Brooklyn,submarket,2.87,11.83,19.75,15.23,14.67,3.36,4.26,3.68,10.05
+Northwest Brooklyn,Brooklyn,submarket,8.87,11.02,7.98,18.3,10.52,7.7,14.98,-3.12,-0.61
+Ocean Parkway,Brooklyn,neighborhood,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Old Mill Basin,Brooklyn,neighborhood,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Park Slope,Brooklyn,neighborhood,8.92,-3.47,13.23,21.41,10.34,-1.8,19.44,1.81,-4.62
+Prospect Heights,Brooklyn,neighborhood,12.13,-0.56,17.73,20.53,-11.56,17.74,3.37,31.26,-3.17
+Prospect Lefferts Gardens,Brooklyn,neighborhood,161.23,-4.85,44.1,-16.83,64.86,28.57,-0.69,2.42,1.8
+Prospect Park,Brooklyn,submarket,3.95,0.55,9.03,14.84,11.98,6.56,10.43,10.47,-6.57
+Prospect Park South,Brooklyn,neighborhood,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,-100.0
+Red Hook,Brooklyn,neighborhood,-100.0,N/A,N/A,-100.0,N/A,N/A,N/A,N/A,N/A
+Seagate,Brooklyn,neighborhood,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+Sheepshead Bay,Brooklyn,neighborhood,-3.99,5.64,0.71,1.34,5.64,18.33,6.54,0.02,7.3
+South Brooklyn,Brooklyn,submarket,-0.21,4.63,0.87,6.53,8.16,9.2,7.41,2.88,3.39
+Sunset Park,Brooklyn,neighborhood,16.58,4.35,-8.9,34.07,7.27,12.85,4.81,10.24,-10.38
+Williamsburg,Brooklyn,neighborhood,3.28,14.46,15.31,19.22,5.73,7.06,4.78,-0.14,6.34
+Windsor Terrace,Brooklyn,neighborhood,-3.21,16.71,-11.21,31.78,3.76,19.33,23.89,-9.41,4.07
