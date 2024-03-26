@@ -24,10 +24,11 @@ with open(input_csv_file, newline='') as csvfile, open(output_csv_file, 'w', new
     csvreader = csv.reader(csvfile)
     csvwriter = csv.writer(outputfile)
     
-    # Skip header row in the input file and prepare a header for the output file
-    headers = next(csvreader)
-    new_headers = headers[0:1] + [f"YOY_{header}" for header in headers[1:-1]]  # Adjust headers for output
-    csvwriter.writerow(new_headers)
+    # Adjust the headers for the output file based on corrected years
+    headers = ["POSTCODE"] + [f"{year} YoY fullval" for year in range(2012, 2020)]
+    csvwriter.writerow(headers)
+    
+    next(csvreader, None)  # Skip header row of the input file
     
     for row in csvreader:
         year_over_year_percentages = calculate_year_over_year_increase(row)
