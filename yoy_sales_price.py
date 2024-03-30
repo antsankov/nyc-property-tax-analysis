@@ -8,15 +8,15 @@ def calculate_yoy_increase(input_file_path, output_file_path):
         # Read the header from the input file and prepare the header for the output file
         input_header = next(reader)
         # Assuming the first three columns do not require YoY calculation, we copy them as is
-        output_header = input_header[:3] + [f'{year} YoY Increase (%)' for year in input_header[4:]]  # Adjust to skip the first year for YoY calculation
+        output_header = input_header[:1] + [f'{year} YoY' for year in input_header[2:]]  # Adjust to skip the first year for YoY calculation
         
         # Write the modified header to the output file
         writer.writerow(output_header)
 
         for row in reader:
             # Extract the area information and the yearly data
-            area_info = row[:3]
-            yearly_data = [float(value) if value not in ['', '0', 0] else 0 for value in row[3:]]
+            area_info = row[:1]
+            yearly_data = [float(value) if value not in ['', '0', 0] else 0 for value in row[1:]]
 
             # Calculate YoY increase
             yoy_increases = []  # Initialize the list for YoY increases
@@ -33,6 +33,6 @@ def calculate_yoy_increase(input_file_path, output_file_path):
 
 
 if __name__ == "__main__":
-    input_csv = "./processed_data/bk_median_saleprice_by_year.csv"  # Replace this with the path to your input CSV file
+    input_csv = "./processed_data/bk_CLEANED_median_saleprice_by_year.csv"  # Replace this with the path to your input CSV file
     output_csv = "./processed_data/yoy_bk_saleprice.csv"  # Replace this with the path you want for your output CSV file
     calculate_yoy_increase(input_csv, output_csv)

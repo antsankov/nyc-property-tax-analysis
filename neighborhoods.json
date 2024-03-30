@@ -1,0 +1,111 @@
+{
+    "Bath Beach" : {
+        "zip" : [11214, 11228]
+    },
+    "Bay Ridge" : {
+        "zip" : [11209, 11220]
+    },
+    "Bedford-Stuyvesant" : {
+        "zip": [11205, 11206, 11216, 11221, 11233, 11238]
+    },
+    "Bensonhurst" : {
+        "zip": [11204, 11214]
+    },
+    "Boerum Hill" : {
+        "zip": [11201]
+    }, 
+    "Borough Park" : {
+        "zip": [11219]
+    },
+    "Brighton Beach": {
+        "zip": [11235]
+    },
+    "Brooklyn Heights": {
+        "zip": [11201]
+    }, 
+    "Brownsville" : {
+        "zip": [11212, 11233]
+    },
+    "Bushwick": {
+        "zip": [11206, 11207, 11221, 11237]
+    }, 
+    "Canarsie": {
+        "zip":[11236]
+    },
+    "Carroll Gardens":{
+        "zip": [11231]
+    },
+    "Clinton Hill":{
+        "zip": [11205, 11238]
+    },
+    "Cobble Hill": {
+        "zip": [11201, 11231]
+    },
+    "Coney Island": {
+        "zip": [11224]
+    },
+    "Crown Heights":{
+        "zip": [11213, 11216, 11225, 11233, 11238]
+    },
+    "Ditmas Park": {
+        "zip": [11226]
+    }, 
+    "Downtown Brooklyn":{
+        "zip": [11217]
+    }, 
+    "Dyker Heights":{
+        "zip": [11228]
+    }, 
+    "East Flatbush": {
+        "zip": [11203]
+    },
+    "East New York":{
+        "zip":[11207, 11208, 11239]
+    },
+    "Flatbush":{
+        "zip":[11203, 11210, 11225, 11226]
+    },
+    "Flatlands":{
+        "zip":[11234]
+    }, 
+    "Fort Greene":{
+        "zip": [11238, 11201, 11205, 11217]
+    },
+    "Gravesend":{
+        "zip": [11223]
+    }, 
+    "Greenpoint":{
+        "zip": [11222]
+    }, 
+    "Kensington": {
+        "zip": [11218]
+    },
+    "Marine Park": {
+        "zip": [11229, 11234]
+    },
+    "Midwood":{
+        "zip": [11210, 11230]
+    },
+    "Park Slope":{
+        "zip": [11215, 11217]
+    },
+    "Prospect Heights":{
+        "zip": [11217, 11238]
+    },
+    "Prospect Lefferts Gardens":{
+        "zip": [11225]
+    },
+    "Sheepshead Bay":{
+        "zip": [11229, 11235]
+    },
+    "Sunset Park":{
+        "zip": [11220, 11232]
+    },
+    "Williamsburg":{
+        "zip": [11206, 11211, 11249]
+    },
+    "Windsor Terrace":{
+        "zip": [11215, 11218]
+    }
+}
+ 
