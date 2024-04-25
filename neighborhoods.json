@@ -1,111 +1,147 @@
 {
     "Bath Beach" : {
-        "zip" : [11214, 11228]
+        "zip" : [11214, 11228],
+        "submarket": "South Brooklyn"
     },
     "Bay Ridge" : {
-        "zip" : [11209, 11220]
+        "zip" : [11209, 11220],
+        "submarket": "South Brooklyn"
     },
     "Bedford-Stuyvesant" : {
-        "zip": [11205, 11206, 11216, 11221, 11233, 11238]
+        "zip": [11205, 11206, 11216, 11221, 11233, 11238],
+        "submarket": "Central Brooklyn"
     },
     "Bensonhurst" : {
-        "zip": [11204, 11214]
+        "zip": [11204, 11214],
+        "submarket": "South Brooklyn"
     },
     "Boerum Hill" : {
-        "zip": [11201]
+        "zip": [11201],
+        "submarket": "Northwest Brooklyn"
     }, 
     "Borough Park" : {
-        "zip": [11219]
+        "zip": [11219],
+        "submarket": "South Brooklyn"
     },
     "Brighton Beach": {
-        "zip": [11235]
+        "zip": [11235],
+        "submarket": "South Brooklyn"
     },
     "Brooklyn Heights": {
-        "zip": [11201]
+        "zip": [11201],
+        "submarket": "Northwest Brooklyn"
     }, 
     "Brownsville" : {
-        "zip": [11212, 11233]
+        "zip": [11212, 11233],
+        "submarket" : "East Brooklyn"
     },
     "Bushwick": {
-        "zip": [11206, 11207, 11221, 11237]
+        "zip": [11206, 11207, 11221, 11237],
+        "submarket": "North Brooklyn"
     }, 
     "Canarsie": {
-        "zip":[11236]
+        "zip":[11236],
+        "submarket": "East Brooklyn"
     },
     "Carroll Gardens":{
-        "zip": [11231]
+        "zip": [11231],
+        "submarket": "Northwest Brooklyn"
     },
     "Clinton Hill":{
-        "zip": [11205, 11238]
+        "zip": [11205, 11238],
+        "submarket": "Northwest Brooklyn"
     },
     "Cobble Hill": {
-        "zip": [11201, 11231]
+        "zip": [11201, 11231],
+        "submarket": "Northwest Brooklyn"
     },
     "Coney Island": {
-        "zip": [11224]
+        "zip": [11224],
+        "submarket": "South Brooklyn"
     },
     "Crown Heights":{
-        "zip": [11213, 11216, 11225, 11233, 11238]
+        "zip": [11213, 11216, 11225, 11233, 11238],
+        "submarket": "Central Brooklyn"
     },
     "Ditmas Park": {
-        "zip": [11226]
-    }, 
+        "zip": [11226],
+        "submarket": "Central Brooklyn"
+    },  
     "Downtown Brooklyn":{
-        "zip": [11217]
+        "zip": [11217],
+        "submarket": "Northwest Brooklyn"
     }, 
     "Dyker Heights":{
-        "zip": [11228]
+        "zip": [11228],
+        "submarket": "South Brooklyn"
     }, 
-    "East Flatbush": {
-        "zip": [11203]
+    "East Brooklyn Flatbush": {
+        "zip": [11203],
+        "submarket" : "East Brooklyn"
     },
-    "East New York":{
-        "zip":[11207, 11208, 11239]
+    "East Brooklyn New York":{
+        "zip":[11207, 11208, 11239], 
+        "submarket": "East Brooklyn"
     },
     "Flatbush":{
-        "zip":[11203, 11210, 11225, 11226]
+        "zip":[11203, 11210, 11225, 11226],
+        "submarket": "Central Brooklyn"
     },
     "Flatlands":{
-        "zip":[11234]
+        "zip":[11234],
+        "submarket": "Central Brooklyn"
     }, 
     "Fort Greene":{
-        "zip": [11238, 11201, 11205, 11217]
+        "zip": [11238, 11201, 11205, 11217],
+        "submarket": "Northwest Brooklyn"
     },
     "Gravesend":{
-        "zip": [11223]
+        "zip": [11223],
+        "submarket": "South Brooklyn"
     }, 
     "Greenpoint":{
-        "zip": [11222]
+        "zip": [11222],
+        "submarket": "North Brooklyn"
     }, 
     "Kensington": {
-        "zip": [11218]
+        "zip": [11218],
+        "submarket": "Central Brooklyn"
     },
     "Marine Park": {
-        "zip": [11229, 11234]
+        "zip": [11229, 11234],
+        "submarket": "Central Brooklyn"
     },
     "Midwood":{
-        "zip": [11210, 11230]
+        "zip": [11210, 11230],
+        "submarket": "Central Brooklyn"
     },
     "Park Slope":{
-        "zip": [11215, 11217]
+        "zip": [11215, 11217],
+        "submarket": "Northwest Brooklyn"
     },
     "Prospect Heights":{
-        "zip": [11217, 11238]
+        "zip": [11217, 11238],
+        "submarket": "Central Brooklyn"
     },
     "Prospect Lefferts Gardens":{
-        "zip": [11225]
+        "zip": [11225],
+        "submarket": "Central Brooklyn"
     },
     "Sheepshead Bay":{
-        "zip": [11229, 11235]
+        "zip": [11229, 11235],
+        "submarket": "South Brooklyn"
     },
     "Sunset Park":{
-        "zip": [11220, 11232]
+        "zip": [11220, 11232],
+        "submarket": "Central Brooklyn"
     },
     "Williamsburg":{
-        "zip": [11206, 11211, 11249]
+        "zip": [11206, 11211, 11249],
+        "submarket": "North Brooklyn"
     },
     "Windsor Terrace":{
-        "zip": [11215, 11218]
+        "zip": [11215, 11218],
+        "submarket": "Central Brooklyn"
     }
 }
  
