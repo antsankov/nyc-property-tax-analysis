@@ -1,4 +1,6 @@
-# SIPA EMPA Quant Final Project
+# SIPA Quant I Final Project
+
+### See [ant2143-bk-property-tax-discrepancy.pdf](./ant2143-bk-property-tax-discrepancy.pdf) for final analysis.
 
 ### NYC City Data
 * From https://data.cityofnewyork.us/City-Government/Property-Valuation-and-Assessment-Data/yjxr-fw8i/data
